@@ -1,0 +1,12 @@
+name: Clases
+version: 1.0-SNAPSHOT
+description: Un plugin de clases
+main: com.davodamc.Main
+api-version: 1.18
+depend: [PlaceholderAPI]
+commands:
+  clases:
+    description: Abre el menú de selección de clase
+    usage: /clases
+    aliases:
+      - clase

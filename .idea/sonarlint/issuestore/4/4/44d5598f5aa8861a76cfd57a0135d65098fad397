@@ -1,0 +1,13 @@
+
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(—±°Êøÿÿÿÿ
+Q
+java:S2696""6Make the enclosing method "static" or remove this set.(ñõîÙþÿÿÿÿ
+@
+java:S2440+"*Remove this instantiation of "YMLManager".(•¶”Ú
+n
+java:S1128"LRemove this unused import 'org.bukkit.configuration.file.FileConfiguration'.(¸ù—Óÿÿÿÿÿ8„‡Ž¤Ù1
+n
+java:S1128"LRemove this unused import 'org.bukkit.configuration.file.YamlConfiguration'.(ïÛö¨þÿÿÿÿ8„‡Ž¤Ù1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8„‡Ž¤Ù1
